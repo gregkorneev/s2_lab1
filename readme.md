@@ -1,10 +1,6 @@
-lab1/
+s2_lab1/
   CMakeLists.txt
-  include/
-    mylib/
-      Time.h
-  src/
-    Time.cpp
-  app/
-    CMakeLists.txt
-    main.cpp
+  include/mylib/Student.h
+  src/Student.cpp
+  app/CMakeLists.txt
+  app/main.cpp

@@ -1,0 +1,6 @@
+/Users/korneev/Yandex.Disk.localized/code/s2_lab1/build/CMakeFiles/mylib.dir
+/Users/korneev/Yandex.Disk.localized/code/s2_lab1/build/CMakeFiles/edit_cache.dir
+/Users/korneev/Yandex.Disk.localized/code/s2_lab1/build/CMakeFiles/rebuild_cache.dir
+/Users/korneev/Yandex.Disk.localized/code/s2_lab1/build/app/CMakeFiles/app.dir
+/Users/korneev/Yandex.Disk.localized/code/s2_lab1/build/app/CMakeFiles/edit_cache.dir
+/Users/korneev/Yandex.Disk.localized/code/s2_lab1/build/app/CMakeFiles/rebuild_cache.dir
