@@ -1,0 +1,10 @@
+lab1/
+  CMakeLists.txt
+  include/
+    mylib/
+      Time.h
+  src/
+    Time.cpp
+  app/
+    CMakeLists.txt
+    main.cpp
