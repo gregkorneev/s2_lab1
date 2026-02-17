@@ -1,8 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/Users/korneev/Yandex.Disk.localized/code/s2_lab1/build/cmake_install.cmake",
-		"/Users/korneev/Yandex.Disk.localized/code/s2_lab1/build/app/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
